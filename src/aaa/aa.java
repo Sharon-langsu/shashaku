@@ -29,7 +29,5 @@ public class aa {
 			}
 			return i;
 		}
-	 static void f() {
-		 System.out.println("ssss");
-	 }
+
 }
